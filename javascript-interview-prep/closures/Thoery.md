@@ -9,7 +9,7 @@ A closure is a JavaScript mechanism where a function can remember the variables 
 - A closure can be thought of as a function together with the variables it remembers from its lexical scope.
 
 ## Example
-
+```
 function outer() {
     let count = 0;
 
@@ -23,6 +23,7 @@ const a = outer();
 console.log(a()); // 1
 console.log(a()); // 2
 console.log(a()); // 3
+```
 
 ## Explanation:
 
