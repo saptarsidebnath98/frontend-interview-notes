@@ -15,7 +15,7 @@ Access to own Jobs -> Authorization
 ---
 
 ## Password Hashing
-
+```
 Package:
 bcrypt
 
@@ -25,11 +25,11 @@ store password securely.
 Methods:
 bcrypt.hash()
 bcrypt.compare()
-
+```
 ---
 
 ## JWT
-
+```
 Package:
 jsonwebtoken
 
@@ -44,11 +44,11 @@ Payload:
 {
     userId: 1
 }
-
+```
 ---
 
 ## Login Flow
-
+```
 User Login
 ↓
 bcrypt.compare()
@@ -58,11 +58,11 @@ jwt.sign()
 accessToken
 ↓
 localStorage
-
+```
 ---
 
 ## Protected Route Flow
-
+```
 Frontend
 ↓
 Authorization: Bearer token
@@ -76,3 +76,4 @@ userId
 
 ↓
 fetch User's Jobs
+```
