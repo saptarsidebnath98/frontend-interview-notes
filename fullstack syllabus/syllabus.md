@@ -1,6 +1,6 @@
 # Syllabus
 ## Module 1 — JavaScript (Master it)
-
+```
 You should be able to answer almost anything.
 
 Fundamentals
@@ -61,9 +61,9 @@ WeakMap
 WeakSet
 
 Goal: solve 200–300 JavaScript problems.
-
+```
 ## Module 2 — React
-
+```
 Master every topic.
 
 Core
@@ -103,9 +103,9 @@ Axios
 Loading
 Error Handling
 Optimistic Updates
-
+```
 ## Module 3 — CSS
-
+```
 Not fancy animations—professional layouts.
 
 Practice:
@@ -118,9 +118,9 @@ Media Queries
 CSS Variables
 Transitions
 Accessibility
-
+```
 ## Module 4 — TypeScript
-
+```
 Know:
 
 Types
@@ -130,9 +130,9 @@ Generics
 Utility Types
 Type Narrowing
 Type Guards
-
+```
 ## Module 5 — Next.js
-
+```
 Learn:
 
 App Router
@@ -145,9 +145,9 @@ Metadata
 Image Optimization
 API Routes
 Deployment
-
+```
 ## Module 6 — Node.js
-
+```
 Understand:
 
 Event Loop
@@ -158,9 +158,9 @@ Path
 HTTP
 Process
 Environment Variables
-
+```
 ## Module 7 — Express
-
+```
 Know how to build:
 
 REST API
@@ -176,9 +176,9 @@ Pagination
 Filtering
 Search
 Sorting
-
+```
 ## Module 8 — SQL
-
+```
 Master
 
 SELECT
@@ -198,9 +198,9 @@ Aggregate Functions
 Transactions
 Indexes
 Foreign Keys
-
+```
 ## Module 9 — Authentication
-
+```
 Understand:
 
 JWT
@@ -212,9 +212,9 @@ CORS
 CSRF
 Password Hashing
 bcrypt
-
+```
 ## Module 10 — System Design (Junior/Mid-level)
-
+```
 Know:
 
 REST
@@ -228,9 +228,9 @@ Load Balancer
 Rate Limiting
 
 You don't need senior-level distributed systems, but you should be able to explain how a typical web app works end to end.
-
+```
 ## Module 11 — Git
-
+```
 Know:
 
 clone
@@ -243,18 +243,18 @@ stash
 cherry-pick (basic)
 pull requests
 resolving conflicts
-
+```
 ## Module 12 — Testing
-
+```
 Learn:
 
 Jest
 React Testing Library
 Unit Tests
 Integration Tests
-
+```
 ## Module 13 — Deployment
-
+```
 Master:
 
 Vercel
@@ -265,9 +265,9 @@ CORS
 Domains
 HTTPS
 Docker basics
-
+```
 ## Module 14 — DSA
-
+```
 This matters for many companies.
 
 Practice:
@@ -290,9 +290,9 @@ DFS
 BFS
 
 Aim for 200–300 problems, focusing on understanding patterns rather than memorizing solutions.
-
+```
 ## Projects
-
+```
 By the time you're interviewing, I'd want to see projects like:
 
 Job Tracker (finish deployment)
@@ -312,3 +312,4 @@ Solve interview questions on it.
 Revisit it after a few weeks.
 
 That repetition is what builds confidence.
+```
